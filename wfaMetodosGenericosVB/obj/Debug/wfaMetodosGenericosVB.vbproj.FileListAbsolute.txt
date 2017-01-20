@@ -1,0 +1,12 @@
+D:\Whinchester\FABIO\CD\DICAS\VB.NET\wfaMetodosGenericosVB\wfaMetodosGenericosVB\bin\Debug\wfaMetodosGenericosVB.exe.config
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\wfaMetodosGenericosVB\wfaMetodosGenericosVB\bin\Debug\wfaMetodosGenericosVB.exe.config
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\wfaMetodosGenericosVB\wfaMetodosGenericosVB\bin\Debug\wfaMetodosGenericosVB.exe
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\wfaMetodosGenericosVB\wfaMetodosGenericosVB\bin\Debug\wfaMetodosGenericosVB.pdb
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\wfaMetodosGenericosVB\wfaMetodosGenericosVB\bin\Debug\wfaMetodosGenericosVB.xml
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\wfaMetodosGenericosVB\wfaMetodosGenericosVB\obj\Debug\wfaMetodosGenericosVB.vbprojResolveAssemblyReference.cache
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\wfaMetodosGenericosVB\wfaMetodosGenericosVB\obj\Debug\wfaMetodosGenericosVB.frmMetodosGenericosVB.resources
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\wfaMetodosGenericosVB\wfaMetodosGenericosVB\obj\Debug\wfaMetodosGenericosVB.Resources.resources
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\wfaMetodosGenericosVB\wfaMetodosGenericosVB\obj\Debug\wfaMetodosGenericosVB.vbproj.GenerateResource.Cache
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\wfaMetodosGenericosVB\wfaMetodosGenericosVB\obj\Debug\wfaMetodosGenericosVB.exe
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\wfaMetodosGenericosVB\wfaMetodosGenericosVB\obj\Debug\wfaMetodosGenericosVB.xml
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\wfaMetodosGenericosVB\wfaMetodosGenericosVB\obj\Debug\wfaMetodosGenericosVB.pdb
